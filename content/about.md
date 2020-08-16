@@ -1,6 +1,5 @@
 +++
 title = "About Me"
-date = "2020-08-15"
 cover = "img/face.png"
 +++
 
