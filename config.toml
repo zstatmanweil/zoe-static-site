@@ -3,12 +3,20 @@ languageCode = "en-us"
 theme = "terminal"
 paginate = 5
 
+[content]
+name = "test"
+
 [params]
   contentTypeName = "post"
   themeColor = "blue"
   showMenuItems = 2
   fullWidthTheme = false
   centerTheme = true
+  favicon = "img/face.png"
+
+  [params.twitter]
+    creator = "zboknows"
+    site = "https://twitter.com/zboknows?lang=en"
 
 [languages]
   [languages.en]
