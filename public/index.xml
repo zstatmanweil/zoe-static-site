@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zoe Statman-Weil</title>
+    <link>/</link>
+    <description>Recent content on Zoe Statman-Weil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>/about/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>My name is Zoe and I like learning things! I learned to code a few years ago and have been exploring programming, computers and data ever since.
+Some fun facts about me:
+ I am the President of BayGeo, a local Bay Area organization dedicated to bringing together geospatial and mapping enthusiasts. I learned to play basketball by starting a women + non-binary basketball team 6 years ago. I played twice a week until shelter in place.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/showcase/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/showcase/</guid>
+      <description>Dasparities in Compliance with the Safe Drinking Water Act (SDWA) My master&amp;rsquo;s thesis was a spatial environmental justice investigation into violations to the SDWA in Pennsylvania. My research was published in August 2020 in Applied Geography.
+I have also written a lot of code around this project and completely redid my thesis research but with New Jersey data. While unfortunately the the final website isn&amp;rsquo;t currently being hosted anywhere, all the code can be found here.</description>
+    </item>
+    
+    <item>
+      <title>Hello!</title>
+      <link>/post/hello/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hello/</guid>
+      <description>What I am currently trying to learn:
+ Scala CS Basics + Algorithms  </description>
+    </item>
+    
+  </channel>
+</rss>
