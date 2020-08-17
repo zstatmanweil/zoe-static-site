@@ -14,10 +14,6 @@ name = "test"
   centerTheme = true
   favicon = "img/face.png"
 
-  [params.twitter]
-    creator = "zboknows"
-    site = "https://twitter.com/zboknows?lang=en"
-
 [languages]
   [languages.en]
     title = "Zoe Statman-Weil"
